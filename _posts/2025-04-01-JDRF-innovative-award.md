@@ -1,5 +1,6 @@
 ---
 title: Breakthrough T1D Innovative Award
+author: qin-li
 tags: news, funding
 ---
 {%

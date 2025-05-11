@@ -13,7 +13,7 @@ nav:
 
 The Li Lab has open positions at all levels.
 
-We also welcomes graduate students interested in rotation projects! We are affiliated with the CAMB, GCB, IGG, and Bioengineering programs. If interested, please email Dr. Li with a brief statement of your interest and CV at qinli[at]pennmedicine.upenn.edu.
+We also welcomes graduate students interested in rotation projects! We are affiliated with the CAMB, GCB, IGG, and Bioengineering programs. If interested, please email [Qin Li](/members/qin-li.html) with a brief statement of your interest and CV at qinli[at]pennmedicine.upenn.edu.
 
 {% include section.html %}
 

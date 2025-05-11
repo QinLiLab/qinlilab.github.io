@@ -1,5 +1,6 @@
 ---
 title: Diabetes Research Center (DRC) Pilot and Feasibility Grant
+author: qin-li
 tags: news, funding
 ---
 {%

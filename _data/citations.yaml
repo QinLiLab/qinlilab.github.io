@@ -18,6 +18,7 @@
   date: '2022-08-29'
   link: https://doi.org/gsgk4z
   orcid: 0000-0002-8948-2717
+  qin-li: true
   plugin: sources.py
   file: sources.yaml
   image: images/citations/2022_bioRxiv_model.png
@@ -40,6 +41,7 @@
   date: '2022-08-03'
   link: https://doi.org/gqmk98
   orcid: 0000-0002-8948-2717
+  qin-li: true
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -69,6 +71,7 @@
   date: '2021-04-12'
   link: https://doi.org/gmhhkk
   orcid: 0000-0002-8948-2717
+  qin-li: true
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
@@ -86,6 +89,7 @@
   date: '2020-05-01'
   link: https://doi.org/ghprf5
   orcid: 0000-0002-8948-2717
+  qin-li: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature24041

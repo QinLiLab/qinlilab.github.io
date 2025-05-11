@@ -1,5 +1,6 @@
 ---
 title: 2025 Synergy Grant
+author: qin-li
 tags: news, funding
 ---
 {%

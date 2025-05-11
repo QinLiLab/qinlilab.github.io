@@ -1,5 +1,5 @@
 ---
-name: Kun Dai, Ph.D.
+name: Kun Dai
 image: images/team/kundai.jpg
 role: postdoc
 aliases:

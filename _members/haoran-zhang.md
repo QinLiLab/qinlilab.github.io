@@ -1,5 +1,5 @@
 ---
-name: Haoran Zhang, Ph.D.
+name: Haoran Zhang
 image: images/team/haoran.jpg
 role: postdoc
 aliases:

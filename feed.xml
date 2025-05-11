@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-05-11T14:46:02+00:00</updated><id>/feed.xml</id><title type="html">Li Lab</title><entry><title type="html">Lab Trip to PSU, 2025</title><link href="/2025/05/03/Lab-trip.html" rel="alternate" type="text/html" title="Lab Trip to PSU, 2025" /><published>2025-05-03T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/05/03/Lab-trip</id><content type="html" xml:base="/2025/05/03/Lab-trip.html"><![CDATA[<figure class="figure">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-05-11T14:58:45+00:00</updated><id>/feed.xml</id><title type="html">Li Lab</title><entry><title type="html">Lab Trip to PSU, 2025</title><link href="/2025/05/03/Lab-trip.html" rel="alternate" type="text/html" title="Lab Trip to PSU, 2025" /><published>2025-05-03T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/05/03/Lab-trip</id><content type="html" xml:base="/2025/05/03/Lab-trip.html"><![CDATA[<figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/DSCF0319.jpg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -18,7 +18,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/IMG_8419.jpg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -34,8 +34,38 @@
 
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
+    <img src="/images/lab_trip_spring_2025/DSCF0213.jpg" style="
+        width: 1000px;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a href="/news" class="figure-image" aria-label="figure link">
+    <img src="/images/lab_trip_spring_2025/DSCF0239.jpg" style="
+        width: 1000px;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/DSCF0292.jpg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -52,7 +82,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/DSCF0326.jpg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -68,7 +98,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0370.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -83,7 +113,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0453.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -98,7 +128,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0497.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -115,7 +145,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0624.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -130,7 +160,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0592.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -145,7 +175,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0652.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -161,7 +191,7 @@
 <figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/lab_trip_spring_2025/20250504_DSCF0531.jpeg" style="
-        width: 800px;
+        width: 1000px;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -171,7 +201,7 @@
 
     </figcaption>
   
-</figure>]]></content><author><name>qin-li</name></author><category term="news," /><category term="activities" /><summary type="html"><![CDATA[All members of the Li Lab set out on an exciting journey throughout the heart of Pennsylvania.Lancaster – Harrisburg - State College.]]></summary></entry><entry><title type="html">2025 Synergy Grant</title><link href="/2025/05/01/Synergy-award.html" rel="alternate" type="text/html" title="2025 Synergy Grant" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/05/01/Synergy-award</id><content type="html" xml:base="/2025/05/01/Synergy-award.html"><![CDATA[<figure class="figure">
+</figure>]]></content><author><name>qin-li</name></author><category term="news," /><category term="activities" /><summary type="html"><![CDATA[All members of the Li Lab set out on an exciting journey throughout the heart of Pennsylvania.Lancaster – Harrisburg - State College.]]></summary></entry><entry><title type="html">2025 Synergy Grant</title><link href="/2025/05/01/Synergy-award.html" rel="alternate" type="text/html" title="2025 Synergy Grant" /><published>2025-05-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/05/01/Synergy-award</id><content type="html" xml:base="/2025/05/01/Synergy-award.html"><![CDATA[<figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/penn-medicine-logo.png" style="
         width: 300px;
@@ -186,7 +216,7 @@
   
 </figure>
 
-<p>Our collaborative research with <a href="https://j-radlab.com/">Dr. Juan Alvarez</a> of the Department of Cell and Developmental Biology wins the 2025 <a href="https://www.med.upenn.edu/evdresearch/synergy-grant-program.html">Synergy Grant Program</a> competition. Established in 2019, the Synergy Grant program aims to connect faculty from different domains, through science and innovation. Funded studies demonstrate new synergistic collaboration as well as potential for external funding.</p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our collaborative research with Dr. Juan Alvarez of the Department of Cell and Developmental Biology wins the 2025 Synergy Grant Program competition. Established in 2019, the Synergy Grant program aims to connect faculty from different domains, through science and innovation. Funded studies demonstrate new synergistic collaboration as well as potential for external funding.]]></summary></entry><entry><title type="html">RNA day @Penn</title><link href="/2025/04/02/RNA-day.html" rel="alternate" type="text/html" title="RNA day @Penn" /><published>2025-04-02T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/04/02/RNA-day</id><content type="html" xml:base="/2025/04/02/RNA-day.html"><![CDATA[<figure class="figure">
+<p>Our collaborative research with <a href="https://j-radlab.com/">Dr. Juan Alvarez</a> of the Department of Cell and Developmental Biology wins the 2025 <a href="https://www.med.upenn.edu/evdresearch/synergy-grant-program.html">Synergy Grant Program</a> competition. Established in 2019, the Synergy Grant program aims to connect faculty from different domains, through science and innovation. Funded studies demonstrate new synergistic collaboration as well as potential for external funding.</p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our collaborative research with Dr. Juan Alvarez of the Department of Cell and Developmental Biology wins the 2025 Synergy Grant Program competition. Established in 2019, the Synergy Grant program aims to connect faculty from different domains, through science and innovation. Funded studies demonstrate new synergistic collaboration as well as potential for external funding.]]></summary></entry><entry><title type="html">RNA day @Penn</title><link href="/2025/04/02/RNA-day.html" rel="alternate" type="text/html" title="RNA day @Penn" /><published>2025-04-02T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/04/02/RNA-day</id><content type="html" xml:base="/2025/04/02/RNA-day.html"><![CDATA[<figure class="figure">
   <a href="/news" class="figure-image" aria-label="Sihan presenting her work at the RNA day @Penn">
     <img src="/images/sihan-RNAday.jpg" style="
         width: 600px;
@@ -199,7 +229,7 @@
 
     </figcaption>
   
-</figure>]]></content><author><name>sihan-li</name></author><category term="news" /><summary type="html"><![CDATA[Sihan presenting her work at the RNA day @Penn]]></summary></entry><entry><title type="html">Diabetes Research Center (DRC) Pilot and Feasibility Grant</title><link href="/2025/04/01/IDOM-pilot.html" rel="alternate" type="text/html" title="Diabetes Research Center (DRC) Pilot and Feasibility Grant" /><published>2025-04-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/04/01/IDOM-pilot</id><content type="html" xml:base="/2025/04/01/IDOM-pilot.html"><![CDATA[<figure class="figure">
+</figure>]]></content><author><name>sihan-li</name></author><category term="news" /><summary type="html"><![CDATA[Sihan presenting her work at the RNA day @Penn]]></summary></entry><entry><title type="html">Diabetes Research Center (DRC) Pilot and Feasibility Grant</title><link href="/2025/04/01/IDOM-pilot.html" rel="alternate" type="text/html" title="Diabetes Research Center (DRC) Pilot and Feasibility Grant" /><published>2025-04-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/04/01/IDOM-pilot</id><content type="html" xml:base="/2025/04/01/IDOM-pilot.html"><![CDATA[<figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/idom.png" style="
         width: 500px;
@@ -214,7 +244,7 @@
   
 </figure>
 
-<p>Our research receives support from the Pilot and Feasibility Grant of <a href="https://www.med.upenn.edu/idom/drc/index.html">Penn DRC</a></p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our research receives support from the Pilot and Feasibility Grant of Penn DRC]]></summary></entry><entry><title type="html">Breakthrough T1D Innovative Award</title><link href="/2025/04/01/JDRF-innovative-award.html" rel="alternate" type="text/html" title="Breakthrough T1D Innovative Award" /><published>2025-04-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/04/01/JDRF-innovative-award</id><content type="html" xml:base="/2025/04/01/JDRF-innovative-award.html"><![CDATA[<figure class="figure">
+<p>Our research receives support from the Pilot and Feasibility Grant of <a href="https://www.med.upenn.edu/idom/drc/index.html">Penn DRC</a></p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our research receives support from the Pilot and Feasibility Grant of Penn DRC]]></summary></entry><entry><title type="html">Breakthrough T1D Innovative Award</title><link href="/2025/04/01/JDRF-innovative-award.html" rel="alternate" type="text/html" title="Breakthrough T1D Innovative Award" /><published>2025-04-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/04/01/JDRF-innovative-award</id><content type="html" xml:base="/2025/04/01/JDRF-innovative-award.html"><![CDATA[<figure class="figure">
   <a href="/news" class="figure-image" aria-label="figure link">
     <img src="/images/breakthrough-logo.svg" style="
         width: 300px;
@@ -229,4 +259,4 @@
   
 </figure>
 
-<p>Our research focusing on the role of RNA sensing in triggering the innate immune response in type 1 diabetes is now honored by the Innovative Award of Breakthrough T1D!</p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our research focusing on the role of RNA sensing in triggering the innate immune response in type 1 diabetes is now honored by the Innovative Award of Breakthrough T1D!]]></summary></entry><entry><title type="html">Shengyi starts her rotation in the lab!</title><link href="/2025/01/01/Shengyi-join.html" rel="alternate" type="text/html" title="Shengyi starts her rotation in the lab!" /><published>2025-01-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2025/01/01/Shengyi-join</id><content type="html" xml:base="/2025/01/01/Shengyi-join.html"><![CDATA[<p>We welcome <a href="/members/shengyi-lu.html">Shengyi Lu</a> to join our lab as a rotation student.</p>]]></content><author><name>shengyi-lu</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Shengyi Lu to join our lab as a rotation student.]]></summary></entry><entry><title type="html">Kun joins the lab!</title><link href="/2024/10/01/Kun-join.html" rel="alternate" type="text/html" title="Kun joins the lab!" /><published>2024-10-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2024/10/01/Kun-join</id><content type="html" xml:base="/2024/10/01/Kun-join.html"><![CDATA[<p>We welcome <a href="/members/kun-dai.html">Dr. Kun Dai</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>kun-dai</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Kun Dai to join our lab as a postdoc fellow.]]></summary></entry><entry><title type="html">Quan joins the lab!</title><link href="/2024/06/01/Quan-join.html" rel="alternate" type="text/html" title="Quan joins the lab!" /><published>2024-06-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2024/06/01/Quan-join</id><content type="html" xml:base="/2024/06/01/Quan-join.html"><![CDATA[<p>We welcome <a href="/members/quan-ma.html">Quan Ma</a> to join our lab as a visiting student.</p>]]></content><author><name>quan-ma</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Quan Ma to join our lab as a visiting student.]]></summary></entry><entry><title type="html">Sihan joins the lab!</title><link href="/2024/05/08/Sihan-join.html" rel="alternate" type="text/html" title="Sihan joins the lab!" /><published>2024-05-08T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2024/05/08/Sihan-join</id><content type="html" xml:base="/2024/05/08/Sihan-join.html"><![CDATA[<p>We welcome <a href="/members/sihan-li.html">Dr. Sihan Li</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>sihan-li</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Sihan Li to join our lab as a postdoc fellow.]]></summary></entry><entry><title type="html">Haoran joins the lab!</title><link href="/2024/05/01/Haoran-join.html" rel="alternate" type="text/html" title="Haoran joins the lab!" /><published>2024-05-01T00:00:00+00:00</published><updated>2025-05-11T14:44:40+00:00</updated><id>/2024/05/01/Haoran-join</id><content type="html" xml:base="/2024/05/01/Haoran-join.html"><![CDATA[<p>We welcome <a href="/members/haoran-zhang.html">Dr. Haoran Zhang</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>haoran-zhang</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Haoran Zhang to join our lab as a postdoc fellow.]]></summary></entry></feed>
+<p>Our research focusing on the role of RNA sensing in triggering the innate immune response in type 1 diabetes is now honored by the Innovative Award of Breakthrough T1D!</p>]]></content><author><name>qin-li</name></author><category term="news," /><category term="funding" /><summary type="html"><![CDATA[Our research focusing on the role of RNA sensing in triggering the innate immune response in type 1 diabetes is now honored by the Innovative Award of Breakthrough T1D!]]></summary></entry><entry><title type="html">Shengyi starts her rotation in the lab!</title><link href="/2025/01/01/Shengyi-join.html" rel="alternate" type="text/html" title="Shengyi starts her rotation in the lab!" /><published>2025-01-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2025/01/01/Shengyi-join</id><content type="html" xml:base="/2025/01/01/Shengyi-join.html"><![CDATA[<p>We welcome <a href="/members/shengyi-lu.html">Shengyi Lu</a> to join our lab as a rotation student.</p>]]></content><author><name>shengyi-lu</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Shengyi Lu to join our lab as a rotation student.]]></summary></entry><entry><title type="html">Kun joins the lab!</title><link href="/2024/10/01/Kun-join.html" rel="alternate" type="text/html" title="Kun joins the lab!" /><published>2024-10-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2024/10/01/Kun-join</id><content type="html" xml:base="/2024/10/01/Kun-join.html"><![CDATA[<p>We welcome <a href="/members/kun-dai.html">Dr. Kun Dai</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>kun-dai</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Kun Dai to join our lab as a postdoc fellow.]]></summary></entry><entry><title type="html">Quan joins the lab!</title><link href="/2024/06/01/Quan-join.html" rel="alternate" type="text/html" title="Quan joins the lab!" /><published>2024-06-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2024/06/01/Quan-join</id><content type="html" xml:base="/2024/06/01/Quan-join.html"><![CDATA[<p>We welcome <a href="/members/quan-ma.html">Quan Ma</a> to join our lab as a visiting student.</p>]]></content><author><name>quan-ma</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Quan Ma to join our lab as a visiting student.]]></summary></entry><entry><title type="html">Sihan joins the lab!</title><link href="/2024/05/08/Sihan-join.html" rel="alternate" type="text/html" title="Sihan joins the lab!" /><published>2024-05-08T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2024/05/08/Sihan-join</id><content type="html" xml:base="/2024/05/08/Sihan-join.html"><![CDATA[<p>We welcome <a href="/members/sihan-li.html">Dr. Sihan Li</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>sihan-li</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Sihan Li to join our lab as a postdoc fellow.]]></summary></entry><entry><title type="html">Haoran joins the lab!</title><link href="/2024/05/01/Haoran-join.html" rel="alternate" type="text/html" title="Haoran joins the lab!" /><published>2024-05-01T00:00:00+00:00</published><updated>2025-05-11T14:57:36+00:00</updated><id>/2024/05/01/Haoran-join</id><content type="html" xml:base="/2024/05/01/Haoran-join.html"><![CDATA[<p>We welcome <a href="/members/haoran-zhang.html">Dr. Haoran Zhang</a> to join our lab as a postdoc fellow.</p>]]></content><author><name>haoran-zhang</name></author><category term="news" /><summary type="html"><![CDATA[We welcome Dr. Haoran Zhang to join our lab as a postdoc fellow.]]></summary></entry></feed>

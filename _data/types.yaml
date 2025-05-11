@@ -18,6 +18,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+visit:
+  icon: fa-solid fa-graduation-cap
+  description: Visiting Student
+
+rotation:
+  icon: fa-solid fa-graduation-cap
+  description: Rotation Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

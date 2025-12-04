@@ -3,8 +3,8 @@
 - id: doi:10.1038/s41588-025-02430-9
   title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
   authors:
-  - Tao Sun
-  - <u>Qin Li</u>
+  - Tao Sun*
+  - <u>Qin Li*</u>
   - Jonathan M. Geisinger
   - Shi-Bin Hu
   - Boming Fan
@@ -20,6 +20,60 @@
   plugin: sources.py
   file: sources.yaml
   image: images/citations/2022_bioRxiv_model.png
+- id: doi:10.1038/s44161-025-00710-5
+  title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
+  authors:
+  - Chad S Weldy
+  - <u>Qin Li</u>
+  - João P Monteiro
+  - Tim S Peters
+  - Hongchao Guo
+  - Drew Galls
+  - Wenduo Gu
+  - Paul P Cheng
+  - Markus Ramste
+  - Daniel Li
+  - Brian T Palmisano
+  - Disha Sharma
+  - Matthew D Worssam
+  - Quanyi Zhao
+  - Amruta Bhate
+  - Ramendra K Kundu
+  - Trieu Nguyen
+  - Michal Mokry
+  - Clint L Miller
+  - Sander W van der Laan
+  - Jin Billy Li
+  - Thomas Quertermous
+  publisher: Nature Cardiovascular Research
+  date: '2025-09-16'
+  link: https://doi.org/10.1038/s44161-025-00710-5
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s44161-025-00710-5
+  title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
+  authors:
+  - Jacki E Heraud-Farlow
+  - Scott R Taylor
+  - Alistair M Chalk
+  - Adriana Escudero
+  - Shi-Bin Hu
+  - Ankita Goradia
+  - Tao Sun
+  - <u>Qin Li</u>
+  - Iva Nikolic
+  - Jin Billy Li
+  - Miguel Fidalgo
+  - Diana Guallar
+  - Kaylene J Simpson
+  - Carl R Walkley
+  publisher: Science Immunology
+  date: '2024-11-22'
+  link: https://doi.org/10.1038/s44161-025-00710-5
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-022-05052-x
   title: RNA editing underlies genetic risk of common inflammatory diseases
   authors:
@@ -90,8 +144,8 @@
 - id: doi:10.1038/nature24041
   title: Dynamic landscape and regulation of RNA editing in mammals
   authors:
-  - Meng How Tan
-  - <u>Qin Li</u>
+  - Meng How Tan*
+  - <u>Qin Li*</u>
   - Raghuvaran Shanmugam
   - Robert Piskol
   - Jennefer Kohler

@@ -21,7 +21,7 @@
   file: sources.yaml
   image: images/citations/2022_bioRxiv_model.png
 - id: doi:10.1038/s44161-025-00710-5
-  title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
+  title: Smooth muscle expression of RNA editing enzyme ADAR1 controls activation of the RNA sensor MDA5 in atherosclerosis
   authors:
   - Chad S Weldy
   - <u>Qin Li</u>
@@ -52,7 +52,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s44161-025-00710-5
-  title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
+  title: GGNBP2 regulates MDA5 sensing triggered by self double-stranded RNA following loss of ADAR1 editing
   authors:
   - Jacki E Heraud-Farlow
   - Scott R Taylor

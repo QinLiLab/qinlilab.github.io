@@ -1,5 +1,5 @@
 ---
-name: Qin Li, Ph.D.
+name: Qin Li
 image: images/team/QL.jpeg
 role: pi
 aliases:

@@ -1,8 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2022.08.29.505707
-  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
-    Autoimmunity
+- id: doi:10.1038/s41588-025-02430-9
+  title: ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity
   authors:
   - Tao Sun
   - <u>Qin Li</u>
@@ -14,9 +13,9 @@
   - Hongchao Guo
   - Jinbiao Ma
   - Jin Billy Li
-  publisher: bioRxiv
-  date: '2022-08-29'
-  link: https://doi.org/gsgk4z
+  publisher: Nature Genetics
+  date: '2025-12-23'
+  link: https://doi.org/10.1038/s41588-025-02430-9
   orcid: 0000-0002-8948-2717
   plugin: sources.py
   file: sources.yaml

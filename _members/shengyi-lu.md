@@ -7,7 +7,7 @@ aliases:
   - S. Lu
   - S Lu
 links:
-  email: Shengyi.Lu[at]Pennmedicine.upenn.edu
+  email: Shengyi.Lu@Pennmedicine.upenn.edu
   home-page: https://qinlilab.github.io/
 ---
 Shengyi is a 2nd year student of the [G&E](https://www.med.upenn.edu/camb/ge.html) PhD prgram. She received her BS degree from Fudan University.

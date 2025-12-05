@@ -7,7 +7,7 @@ aliases:
   - S. Li
   - S Li
 links:
-  email: Sihan.Li[at]Pennmedicine.upenn.edu
+  email: Sihan.Li@Pennmedicine.upenn.edu
   home-page: https://qinlilab.github.io/
 ---
 

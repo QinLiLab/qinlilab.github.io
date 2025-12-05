@@ -3,6 +3,7 @@ name: Tianyi Bian
 image: images/team/tianyi.jpg
 description: Master Student
 role: undergrad
+group: alum
 aliases:
   - Tianyi Bian
   - T. Bian

@@ -12,6 +12,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=X8vxiMMAAAA
 {% include section.html %}
 
 ## Highlighted
+{% include citation.html lookup="ADAR1 editing is necessary for only a small subset of cytosolic dsRNAs to evade MDA5-mediated autoimmunity" style="rich" %}
 
 {% include citation.html lookup="RNA editing underlies genetic risk of common inflammatory diseases" style="rich" %}
 

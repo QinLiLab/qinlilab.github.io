@@ -51,7 +51,7 @@
   orcid: 0000-0002-8948-2717
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s44161-025-00710-5
+- id: doi:10.1126/sciimmunol.adk0412
   title: GGNBP2 regulates MDA5 sensing triggered by self double-stranded RNA following loss of ADAR1 editing
   authors:
   - Jacki E Heraud-Farlow
@@ -70,7 +70,7 @@
   - Carl R Walkley
   publisher: Science Immunology
   date: '2024-11-22'
-  link: https://doi.org/10.1038/s44161-025-00710-5
+  link: https://doi.org/10.1126/sciimmunol.adk0412
   orcid: 0000-0002-8948-2717
   plugin: sources.py
   file: sources.yaml

@@ -2,6 +2,7 @@
 name: Qin Li
 image: images/team/QL.jpeg
 role: pi
+group: current
 aliases:
   - Qin Li
   - Q. Li

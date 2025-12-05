@@ -2,6 +2,7 @@
 name: Shengyi Lu
 image: images/team/shengyi.jpg
 role: phd
+group: current
 aliases:
   - Shengyi Lu
   - S. Lu

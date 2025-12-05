@@ -2,6 +2,7 @@
 name: Sihan Li
 image: images/team/sihan.jpg
 role: postdoc
+group: current
 aliases:
   - Sihan Li
   - S. Li

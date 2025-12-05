@@ -2,6 +2,7 @@
 name: Shizhuo Mu
 image: images/team/shizhuo.jpg
 role: phd
+group: current
 aliases:
   - Shizhuo Mu
   - S. Mu

@@ -2,7 +2,7 @@
 name: Quan Ma
 image: images/team/quan.jpg
 role: visit
-group: alum
+group: alumni
 aliases:
   - Quan Ma
   - Q. Ma

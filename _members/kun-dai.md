@@ -2,7 +2,7 @@
 name: Kun Dai
 image: images/team/kundai.jpg
 role: postdoc
-group: alum
+group: alumni
 aliases:
   - Kun Dai
   - K. Dai

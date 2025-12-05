@@ -7,6 +7,7 @@ aliases:
   - H. Zhang
   - H Zhang
 links:
+  email: Haoran.Zhang[at]Pennmedicine.upenn.edu
   home-page: https://qinlilab.github.io/
 ---
 

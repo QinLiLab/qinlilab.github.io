@@ -7,6 +7,7 @@ aliases:
   - S. Mu
   - S Mu
 links:
+  email: shizhuo[at]seas.upenn.edu
   home-page: https://qinlilab.github.io/
 ---
 

@@ -8,12 +8,15 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include section.html %}
+Current lab members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: ^(?!alumni$)" %}
 
+Alumni
 {% include section.html %}
-# {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
+{% include list.html data="members" component="portrait" filters="group: alumni" %}
 
 The Li Lab has open positions at all levels.
 
